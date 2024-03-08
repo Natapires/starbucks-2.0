@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Landing-page starbucks" src="Preview.JPG"" width="100%">
+  <img alt="Landing-page starbucks" src="./img/Preview.JPG"" width="100%">
 </p>
 
 ## 🛠 Tecnologias

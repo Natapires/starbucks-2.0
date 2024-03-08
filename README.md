@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Landing-page starbucks" src="https://natapires.github.io/starbucks-2.0/#" width="100%">
+  <img alt="Landing-page starbucks" src="Preview.JPG"" width="100%">
 </p>
 
 ## 🛠 Tecnologias
